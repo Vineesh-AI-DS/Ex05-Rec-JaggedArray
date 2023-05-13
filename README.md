@@ -76,5 +76,7 @@ namespace exp5
 ```
 ## Output:
 
+![put](https://github.com/Vineesh-AI-DS/Ex05-Rec-JaggedArray/assets/93427254/4333ada7-7eb3-4d0c-8f22-2ef2e46132fc)
+
 ## Result:
 Thus C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
